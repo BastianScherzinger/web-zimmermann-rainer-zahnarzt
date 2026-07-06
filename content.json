@@ -106,5 +106,9 @@
     "Individuelle und hochwertige Versorgung",
     "Personalisierte Behandlungspläne"
   ],
-  "content_enriched": true
+  "content_enriched": true,
+  "makeover_stages": [
+    "lokal"
+  ],
+  "makeover_version": 7
 }
