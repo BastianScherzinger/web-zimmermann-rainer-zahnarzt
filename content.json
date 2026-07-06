@@ -67,5 +67,6 @@
   "font_body": "Inter",
   "taste_applied": true,
   "about_image": "/static/img/about_ph.svg",
-  "placeholder_images": true
+  "placeholder_images": true,
+  "hero_refresh_version": 7
 }
