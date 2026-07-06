@@ -1,0 +1,71 @@
+{
+  "site_name": "Zimmermann Rainer Zahnarzt",
+  "branche": "Zahnarzt",
+  "stadt": "Spaichingen",
+  "telefon": "",
+  "email": "",
+  "adresse": "Hauptstr. 17, 78554 Aldingen 3,3 km",
+  "akzent": "#FFD700",
+  "fotos": [
+    "/static/img/gal_ph1.svg",
+    "/static/img/gal_ph2.svg",
+    "/static/img/gal_ph3.svg"
+  ],
+  "hero_image": "/static/img/hero.png",
+  "headline": "Zahnärztliche Fürsorge in Spaichingen",
+  "subline": "Professionelle Zahnbehandlung für Ihr Lächeln",
+  "ueber_titel": "Dr. Rainer Zimmermann - Zuverlässiger Zahnarzt",
+  "ueber_text": "Dr. Rainer Zimmermann bietet in Spaichingen individuelle und hochwertige zahnärztliche Versorgung. Seine Patienten genießen einen persönlichen Service und erfahrenhafte Behandlung.",
+  "leistungen": [
+    {
+      "titel": "Zahnpflege",
+      "text": "Professionelle Reinigungen und Hygieneeinheiten"
+    },
+    {
+      "titel": "Kieferorthopädie",
+      "text": "Behandlungen für unregelmäßige Zähne und Kiefer"
+    },
+    {
+      "titel": "Implantate",
+      "text": "Stabile und natürliche Ersatzzähne"
+    },
+    {
+      "titel": "Zahnreparaturen",
+      "text": "Konservative Behandlung von Zahnschäden"
+    }
+  ],
+  "cta_text": "Termin für eine Untersuchung vereinbaren",
+  "seo_title": "Dr. Rainer Zimmermann - Zuverlässiger Zahnarzt in Spaichingen",
+  "seo_desc": "Zuverlässige und professionelle zahnärztliche Versorgung in Spaichingen.",
+  "jahr": 2026,
+  "hero_source": "template",
+  "hero_template": "zahnarzt.jpg",
+  "rechner": {
+    "titel": "Kostenrechner",
+    "untertitel": "Unverbindliche Sofort-Schätzung",
+    "posten": [
+      {
+        "name": "Professionelle Zahnreinigung",
+        "ab": 80,
+        "bis": 150
+      },
+      {
+        "name": "Bleaching",
+        "ab": 300,
+        "bis": 700
+      },
+      {
+        "name": "Implantat (Richtwert)",
+        "ab": 1800,
+        "bis": 3500
+      }
+    ],
+    "hinweis": "Grobe Orientierung — Ihr genaues, kostenloses Angebot erstellen wir nach kurzer Rücksprache."
+  },
+  "site_version": "1.0",
+  "font_display": "Poppins",
+  "font_body": "Inter",
+  "taste_applied": true,
+  "about_image": "/static/img/about_ph.svg",
+  "placeholder_images": true
+}
